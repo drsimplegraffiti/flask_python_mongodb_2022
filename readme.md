@@ -11,6 +11,7 @@
 Note: use cmd
 
 > cd Scripts
+
 > activate
 
 #### install dependencies
